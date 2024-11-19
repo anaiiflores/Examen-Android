@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/lunaaa"
+        android:icon="@drawable/sol_foreground"
+        android:title="Sunset"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_feliz"
+        android:icon="@drawable/sol_foreground"
+    android:title="New Activity"
+        app:showAsAction="ifRoom" />
+</menu>
